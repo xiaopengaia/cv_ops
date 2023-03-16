@@ -1,2 +1,2 @@
 # cv_ops
-release the cv ops
+realize the cv ops
